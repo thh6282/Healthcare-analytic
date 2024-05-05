@@ -1,7 +1,7 @@
 Create database DimFactKhoDL;
 USE DimFactKhoDL;
 
--- Tạo dim
+-- Create dim
 
 create table dim_Hospital
 (Permanent_Facility_ID int(6) primary key not null,   
@@ -51,7 +51,7 @@ create table dim_MedicalSurgical
 
          
 
--- Tạo Fact
+-- Create Fact
 
 create table Fact_QuantityPatients
 (Patient_ID int primary key not null,
