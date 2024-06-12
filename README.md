@@ -14,6 +14,8 @@
  ### Datawarehouse Architecture
  
  ### ETL
+ - Load to staging
+ - Load to warehouse
  
  ### Datawarehouse
 
