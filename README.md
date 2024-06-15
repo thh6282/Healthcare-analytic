@@ -3,7 +3,7 @@
  ## 1. Survey
  ### Bussiness process
 - Bussiness canvas model
-- 
+- Data flow
  ### Requirement
  ### Hệ thống quy mô dữ liệu
  ### ERD OLTP
